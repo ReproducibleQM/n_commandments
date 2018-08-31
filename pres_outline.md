@@ -22,23 +22,24 @@ TBD
 
 **To-Do:**
 
-1. 1)Choose 1-3 repos to demo
-2. 2)Build the deck
-  1. a)Intro Discussion Slides
-  2. b)What is GitHub
-  3. c)GitHub Discussion Slides
-  4. d)Resources for Learning More
-  5. e)Small Discussion Que Slides
-  6. f)Consensus Discussion Lead-in Slide
+1. Choose 1-3 repos to demo
+2. Build the deck
+  1. Workshop Welcome Slides
+  2. Intro Discussion Slides
+  3. What is GitHub
+  4. GitHub Discussion Slides
+  5. Resources for Learning More
+  6. Small Discussion Que Slides
+  7. Consensus Discussion Lead-in Slide
 
 **Presentation Outline:**
 
-_Goal:_ Identify challenges in managing modern science teams over long-distances and sustaining collaboration over time; Share web-based tools for addressing (some of) these challenges
+Goal: Identify challenges in managing modern science teams over long-distances and sustaining collaboration over time; Share web-based tools for addressing (some of) these challenges
 
 1. Introduction (5 min)
   1. Who we are
-  2. Today&#39;s outline
-2. Challenges of Collaboration (5 min – Braeden)
+  2. Workshop outline
+2. Challenges of Collaboration (5 min)
   1. Q1: What conditions are necessary for collaboration?
     1. Brainstorm with everyone
     2. Our ideas:
@@ -52,8 +53,7 @@ _Goal:_ Identify challenges in managing modern science teams over long-distances
     2. Our ideas:
       1. Distance
       2. Cultural differences between sites/disciplines
-      3. More &quot;pressing&quot; site based commitments
-3. Web-Based Collaboration Tools (20 min – Christie &amp; Chad)
+3. Web-Based Collaboration Tools (20 min)
   1. Focus on GitHub
   2. What is GitHub?
     1. The repo
@@ -61,9 +61,9 @@ _Goal:_ Identify challenges in managing modern science teams over long-distances
     3. What is a fork?
     4. Using the issues page?
   3. Include walk-through of an active or complete project (anyone have one available?)
-    1. Christie&#39;s Lab Repo [https://github.com/BahlaiLab](https://github.com/BahlaiLab)[https://github.com/ReproducibleQM](https://github.com/ReproducibleQM)
-    2. Christie&#39;s Riverside Colleague project
-    3. Lauren Hallett (UO faculty)
+    1. Christie&#39;s Lab Repo [https://github.com/BahlaiLab](https://github.com/BahlaiLab) / [https://github.com/ReproducibleQM](https://github.com/ReproducibleQM)
+    2. Christie&#39;s Riverside Colleague project (link?)
+    3. Lauren Hallett's repos [https://github.com/laurenmh](https://github.com/laurenmh)
   4. Pros of GitHub
     1. Brainstorm with group
     2. Provides a lot of useful tools all in one place
@@ -86,21 +86,17 @@ _Goal:_ Identify major issues and discuss potential solutions for sharing with t
 
 _Deliverable Product:_ Some core &quot;frustrations&quot; in research collaborations; brainstorm of potential solutions to these issues
 
-_Format:_Split into 3- to 4-person groups (depending on attendance); provide each group with notepad and pen; designate notetaker/reporter for each group; work through guiding questions with end product in mind
+_Format:_ Split into 3- to 4-person groups (depending on attendance); provide each group with notepad and pen; designate notetaker/reporter for each group; work through guiding questions with end product in mind
 
 _Guiding Questions/Topic:_
 
 1. Intro to discussion
   1. We&#39;ll be sharing reflections on past collaborative experiences with each other
-  2. Will require some ground rules/guidelines for success…
-    1. Respect the privacy of your past collaborators
-    2. Reflect with humility on past experiences, be willing to admit we&#39;re not perfect!
-  3. Focus on digital aspects: what tools worked, what didn&#39;t
+  2. Focus on digital aspects: what tools worked, what didn&#39;t, why?
 2. Group: Introduction
   1. Institution/LTER Site
   2. Role (grad student, post-doc, prof, other…)
   3. Research Area
-  4. What brought you to this workshop?
 3. Reflect on a past experience (focus on group characteristics, rather than individuals)
   1. Solo: Think of a research collaboration you&#39;ve worked on (doesn&#39;t matter how big the group was, how dispersed you were, how long the project lasted, whether it&#39;s ongoing or not, what the result of the project was)
     1. What was the goal of the project (e.g., a paper, a novel dataset, a grant proposal, an outreach program, etc.)?
@@ -111,7 +107,7 @@ _Guiding Questions/Topic:_
     1. After everyone shares… why? What facilitated these successes?
   4. Group: Share one or two &quot;frustrations&quot; – What could have gone better in this group?
     1. After everyone shares… why? What led to these frustrations?
-4. Looking forward to future collaborations (focus on group characteristics, rather than individuals)
+4. Looking forward to future collaborations (focus on tool choices, rather than individuals)
   1. Group: Share &quot;targets&quot; – What do you look for when considering potential collaborations?
   2. Group: Share &quot;red flags&quot; – What would worry you about potential collaborations?
   3. Group: What might be done to move a &quot;red flag&quot; group to a group you would be excited to work with?
