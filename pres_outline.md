@@ -43,16 +43,16 @@ Goal: Identify challenges in managing modern science teams over long-distances a
    1. Q1: What conditions are necessary for collaboration?
      1. Brainstorm with everyone
      2. Our ideas:
-       1. Willing participants
-       2. A shared goal
-       3. Communication
-       4. Commitment
-       5. Won&#39;t work without ALL of these elements
+       * Willing participants
+       * A shared goal
+       * Communication
+       * Commitment
+       * Won&#39;t work without ALL of these elements
    2. Q2: What additional challenges does cross-site LTER research introduce?
      1. Brainstorm with everyone
      2. Our ideas:
-       1. Distance
-       2. Cultural differences between sites/disciplines
+       * Distance
+       * Cultural differences between sites/disciplines
 3. Web-Based Collaboration Tools (20 min)
    1. Focus on GitHub
    2. What is GitHub?
