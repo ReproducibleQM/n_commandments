@@ -38,6 +38,7 @@ Goal: Identify challenges in managing modern science teams over long-distances a
 
 1. Introduction (5 min)
    1. Who we are
+        1. Why are we interested in digital collaboration?
    2. Workshop outline
 2. Challenges of Collaboration (5 min)
    1. Q1: What conditions are necessary for collaboration?
