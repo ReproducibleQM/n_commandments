@@ -1,5 +1,5 @@
 ---
-title:  
+title: Coming to a Computing Consensus 
 ---
 
 # Coming to a Computing Consensus
