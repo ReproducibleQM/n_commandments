@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+title: N Commandments
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# page order
+header_pages:
+  - n_commandments.md
