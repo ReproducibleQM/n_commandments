@@ -3,7 +3,7 @@ layout: page
 title: N Commandments
 ---
 
-1.
+1. Figure out your colaborators/ establish baseline knowledge
 
 2.
 
