@@ -15,5 +15,7 @@ title: N Commandments
 3. Selecting a commmon suite of tools, standard, and guidelines to use them
 
 4. Define rules for space/posting
+   * openness/data sharing
+   * licence
 
-5.
+5. 
