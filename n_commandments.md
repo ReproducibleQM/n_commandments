@@ -22,3 +22,5 @@ title: N Commandments
 5. Decide what/where to publish data
 
 6. Establish a lead/champion
+
+7.
