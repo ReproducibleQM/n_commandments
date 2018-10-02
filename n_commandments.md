@@ -16,6 +16,7 @@ title: N Commandments
 
 4. Define rules for space/posting
    * openness/data sharing
-   * licence
+   * license
+   * naming conventions
 
-5. 
+5. Decide what/where to publish data
